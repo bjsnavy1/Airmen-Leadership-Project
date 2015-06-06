@@ -1,0 +1,21 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+Body {
+	margin-right: auto;
+	margin-left: auto;	
+	
+}
+
+
+#bg {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	background-image: url(Images/Airman.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    z-index: -1;
+}

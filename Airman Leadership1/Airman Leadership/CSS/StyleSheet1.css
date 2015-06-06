@@ -1,0 +1,110 @@
+﻿body {
+}
+.fieldset1 {
+    width: 745px;
+    display: block;
+}
+label {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: x-large;
+    display: block;
+}
+.labelStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: x-large;
+    display: block;
+    color: #0000FF;
+    margin-left: 1em;
+}
+.dlStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    margin-left: 1.5em;
+    width: 250px;
+    padding-top: 10px;
+}
+.TitleStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: xx-large;
+    color: #000099;
+    margin-left: 0.3em;
+}
+.ddlStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    display: block;
+    padding-top: 3px;
+    margin-left: 2.5em;
+}
+.btnStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: large;
+    color: #FFFFFF;
+    background-color: #000099;
+    border-style: solid;
+    border-color: #FFFFFF;
+    padding: 5px;
+    margin-right: 25px;
+    float: right;
+    display:block;
+}
+
+.CartStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: #0000FF;
+    font-size: x-large;
+    margin-left: 1em;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+.CashStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: x-large;
+    color: #FF0000;
+    margin-left: 2em;
+}
+.TableStyle1 {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: large;
+    margin: 0 auto 0 auto;
+    padding: 25px 25px 25px 25px;
+}
+.pnlStyle1 {
+    padding: 25px;
+}
+.pnlStyle {
+    padding: 10px;
+}
+.pnlPadding {
+    padding: 25px;
+}
+.CheckoutStyle {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: x-large;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px;
+    margin-right: 2em;
+    float: right;
+    background-color: #000099;
+}
+.gallery {
+    width: 745px;
+    padding-left: 25px;
+}
+  .btnSubmit {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: large;
+    padding-left: 15px;
+    background-color: #000099;
+    color: #FFFFFF;
+    border: medium solid #FFFFFF;
+    text-align: center;
+}
+.warning {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: large;
+    color: #FF0000;
+    display: inline-block;
+    padding-left: 50px;
+}
+ 

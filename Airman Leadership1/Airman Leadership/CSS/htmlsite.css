@@ -1,0 +1,149 @@
+#navbar{
+	width:960px;
+	margin-left:400px;
+	margin-top:100px;
+    
+
+}
+
+#navbar #holder {
+	height:61px;
+	border-bottom:1px solid #000;
+	width:800px;
+    padding-left:25px;
+
+}
+
+#navbar #holder ul {
+	list-style:none;
+`	margin:0;
+	padding:0;
+
+}
+
+#navbar #holder ul li a {
+	text-decoration:none;
+	float:left;
+	margin-right:5px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color:#808080;
+	border:1px solid #000;
+	border-bottom:none;
+	padding:20px;
+	width:105px;
+	text-align:center;
+	display:block;
+	background:#00308F;
+	-moz-border-radius-topleft:15px;
+	-moz-border-radius-topright:15px;
+    -webkit-border-radius-topleft:15px;
+    -webkit-border-radius-topright:15px;
+
+
+}
+
+#navbar #holder ul li a:hover {
+	background:#808080;
+	color:#FFF;
+	text-shadow:1px 1px 1px #000;
+
+
+
+}
+
+#holder ul li a#onlink {
+	background:#FFF;
+	color:#000;
+	border-bottom:1px solid #FFF;
+	 
+
+}
+
+#holder ul li a#onlink:hover {
+	background:#FFF;
+	color:#00308F;
+	text-shadow:1px 1px 1px #000;
+	
+
+}
+ body {
+                    
+   background: url(../CSS/Airman.jpg) no-repeat center top fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+           }
+
+            #Content {
+                margin-top: 180px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            #Main {
+	width: 750px;
+	height: auto;
+	margin-left: 425px;
+	background-color: #ffffff;
+	padding-left: 5px;
+            }
+            #Image1{
+                width: 745px;
+            }
+            #form1 #Content #Main #Lcontent {
+	width: 372px;
+	float: left;
+	background-color: #FFF;
+}
+#form1 #Content #Main #Rcontent {
+	width: 373px;
+	float: right;
+	background-color: #FFF;
+}
+#form1 #Content #Main div #Lcontent img {
+	padding-left: 65px;
+}
+#form1 #Content #Main #head {
+	background-color: #FFF;
+	height: 45px;
+		
+}
+#form1 #Content #Main div #Lcontent p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	text-align: center;
+}
+#form1 #Content #Main div #Rcontent img {
+	padding-left: 65px;
+}
+#form1 #Content #Main div #Rcontent p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	text-align: center;
+}
+#form1 #Content #Main #footer {
+	width: 750px;
+	padding: 0px;
+}
+#form1 #Content #Main #footer img {
+	width: 750px;
+}
+#form1 #Content #Main #Contacts {
+	width: 372px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 10px;
+}
+#form1 #Content #Main #Contacts ul li {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-decoration: none;
+	list-style-type: none;
+	color: #00F;
+}
+#form1 #Content #Main #gallery {
+	width: 745px;
+	padding-left: 25px;
+}
+#form1 #Content #Main #gallery a img {
+	padding-left: 10px;
+}

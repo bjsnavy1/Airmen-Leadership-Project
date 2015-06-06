@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://www.hillals.com/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/AirmanSchool.mdf">
+      <publishTime>08/08/2014 11:38:32</publishTime>
+    </File>
+    <File Include="App_Data/AirmanSchool_log.ldf">
+      <publishTime>08/08/2014 11:38:32</publishTime>
+    </File>
+    <File Include="App_Data/Email.txt">
+      <publishTime>08/08/2014 09:48:08</publishTime>
+    </File>
+    <File Include="AttendanceInfo.dbml">
+      <publishTime>08/10/2014 13:17:05</publishTime>
+    </File>
+    <File Include="bin/Airman Leadership.dll">
+      <publishTime>08/12/2014 08:28:42</publishTime>
+    </File>
+    <File Include="Class Materials/Materials.zip">
+      <publishTime>08/10/2014 21:10:39</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>08/11/2014 16:55:35</publishTime>
+    </File>
+    <File Include="Controls/Attendance.ascx">
+      <publishTime>08/12/2014 08:02:30</publishTime>
+    </File>
+    <File Include="Controls/ComingSoon.ascx">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Controls/ContactForm.ascx">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Controls/Footer.ascx">
+      <publishTime>08/12/2014 08:21:43</publishTime>
+    </File>
+    <File Include="Controls/Home.ascx">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Controls/Management.ascx">
+      <publishTime>08/10/2014 21:37:24</publishTime>
+    </File>
+    <File Include="Controls/Materials.ascx">
+      <publishTime>08/12/2014 08:07:33</publishTime>
+    </File>
+    <File Include="Controls/Registar.ascx">
+      <publishTime>08/11/2014 17:05:27</publishTime>
+    </File>
+    <File Include="CSS/Airman.jpg">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="CSS/htmlsite.css">
+      <publishTime>08/11/2014 16:51:37</publishTime>
+    </File>
+    <File Include="CSS/main.css">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="CSS/site.css">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="CSS/StyleSheet1.css">
+      <publishTime>08/12/2014 08:00:11</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/11/2014 16:05:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/10/2014 12:51:59</publishTime>
+    </File>
+    <File Include="Graduation.aspx">
+      <publishTime>08/11/2014 16:54:33</publishTime>
+    </File>
+    <File Include="Images/AS.png">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/css forms.png">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/devry.png">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/footer.jpg">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/Grad.jpg">
+      <publishTime>08/12/2014 07:46:23</publishTime>
+    </File>
+    <File Include="Images/header.png">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Images/hill56.png">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/hilltop3.png">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/indian.png">
+      <publishTime>08/11/2014 15:55:53</publishTime>
+    </File>
+    <File Include="Images/Registar_bg.jpg">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Images/students.png">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Images/support.png">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Images/vfw.jpg">
+      <publishTime>08/12/2014 08:18:00</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>08/12/2014 08:27:17</publishTime>
+    </File>
+    <File Include="Management/Backend.aspx">
+      <publishTime>08/10/2014 12:52:00</publishTime>
+    </File>
+    <File Include="Materials.aspx">
+      <publishTime>08/11/2014 16:56:55</publishTime>
+    </File>
+    <File Include="Registration.aspx">
+      <publishTime>08/11/2014 16:57:54</publishTime>
+    </File>
+    <File Include="StudentInfo.dbml">
+      <publishTime>08/10/2014 12:51:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/10/2014 21:22:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
